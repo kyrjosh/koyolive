@@ -1,3 +1,6 @@
+# This project uses the Holodex API (https://holodex.net).
+# See https://docs.holodex.net for license terms.
+
 import os
 import json
 import requests

@@ -16,6 +16,10 @@
 | `HOLODEX_API_KEY` | [Holodex](https://holodex.net) で発行した API キー |
 | `DISCORD_WEBHOOK_URL` | 通知先の Discord Webhook URL |
 
+## 謝辞
+
+配信情報の取得に [Holodex API](https://holodex.net) を使用しています。
+
 ## 使用技術
 
 - Python
